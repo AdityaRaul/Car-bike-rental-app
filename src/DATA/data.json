@@ -1,0 +1,121 @@
+{
+  "vehicles": [
+    {
+      "brand": "Tata",
+      "model": {
+        "Nexon EV": {
+          "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Nexon-EV/10959/1698998438663/front-left-side-47.jpg",
+          "power": "143 HP",
+          "engineSize": "Electric",
+          "gearbox": "Automatic",
+          "bodyType": "SUV",
+          "fuelType": "Electric"
+        },
+        "Harrier": {
+          "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Harrier/10952/1700043661198/front-left-side-47.jpg",
+          "power": "170 HP",
+          "engineSize": "1956 cc",
+          "gearbox": "Manual",
+          "bodyType": "SUV",
+          "fuelType": "Diesel"
+        }
+      }
+    },
+    {
+      "brand": "Mahindra",
+      "model": {
+        "XUV700": {
+          "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV700/11101/1703757078424/front-left-side-47.jpg",
+          "power": "200 HP",
+          "engineSize": "1999 cc",
+          "gearbox": "Automatic",
+          "bodyType": "SUV",
+          "fuelType": "Petrol"
+        },
+        "Thar": {
+          "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/Thar/10467/1705398865802/front-left-side-47.jpg",
+          "power": "150 HP",
+          "engineSize": "1997 cc",
+          "gearbox": "Manual",
+          "bodyType": "SUV",
+          "fuelType": "Petrol"
+        }
+      }
+    },
+    {
+      "brand": "Maruti",
+      "model": {
+        "Baleno": {
+          "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Baleno/10958/1689586508706/front-left-side-47.jpg",
+          "power": "90 HP",
+          "engineSize": "1197 cc",
+          "gearbox": "Automatic",
+          "bodyType": "Hatchback",
+          "fuelType": "Petrol"
+        }
+      }
+    },
+    {
+      "brand": "Hyundai",
+      "model": {
+        "Creta": {
+          "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Creta/10930/1704192720285/front-left-side-47.jpg",
+          "power": "160 HP",
+          "engineSize": "1497 cc",
+          "gearbox": "Automatic",
+          "bodyType": "SUV",
+          "fuelType": "Petrol"
+        }
+      }
+    },
+    {
+      "brand": "Honda",
+      "model": {
+        "City Hybrid": {
+          "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Honda/City-Hybrid/10796/1681730155677/front-left-side-47.jpg",
+          "power": "126 HP",
+          "engineSize": "1498 cc",
+          "gearbox": "Automatic",
+          "bodyType": "Sedan",
+          "fuelType": "Hybrid"
+        }
+      }
+    }
+  ],
+  "locations": [
+    "Mumbai, India",
+    "Bangalore, India",
+    "Hyderabad, India",
+    "Delhi, India",
+    "Pune, India",
+    "Chennai, India",
+    "Kolkata, India",
+    "Ahmedabad, India"
+  ],
+  "customer-reviews": [
+    {
+      "customerImageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/reviews/customer-1.jpg",
+      "customerName": "Rahul",
+      "customerReview": "Smooth experience with the Nexon EV!",
+      "customerStar": 5
+    },
+    {
+      "customerImageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/reviews/customer-2.jpg",
+      "customerName": "Priya",
+      "customerReview": "Loved the XUV700 ride, highly recommended!",
+      "customerStar": 4
+    },
+    {
+      "customerImageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/reviews/customer-3.jpg",
+      "customerName": "Anjali",
+      "customerReview": "Baleno was compact and great for city travel.",
+      "customerStar": 5
+    },
+    {
+      "customerImageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/reviews/customer-4.jpg",
+      "customerName": "Arjun",
+      "customerReview": "Good service and clean cars.",
+      "customerStar": 4
+    }
+  ]
+}
